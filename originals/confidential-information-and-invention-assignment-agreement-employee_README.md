@@ -1,0 +1,3 @@
+# Confidential Information and Invention Assignment Agreement for Employees
+
+This form is designed to be used by the Company after initial consultation with counsel. Every employee and consultant (i.e., every service provider) should sign one, although there are different forms for use by employees vs. consultants. The Company should keep these in the person’s personnel file. Make sure it is filled out completely, including the Exhibits at the end of the document. If there is nothing to disclose on the Exhibit, have the person check the appropriate line and sign the Exhibit as well as the main agreement signature page. This is critical and will be the subject of careful due diligence by any serious investors.
