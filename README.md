@@ -6,7 +6,7 @@ I have extracted the last indexed versions of these files from the [Wayback Mach
 
 Sourced from [Startup Forms Library](https://web.archive.org/web/20220509013422/https://www.orrick.com/en/Total-Access/Tool-Kit/Start-Up-Forms) and a [list of all media files](https://web.archive.org/web/*/https://media.orrick.com/Media%20Library/public/files/*).
 
-I've provided README files for each document. These README files are sourced from the[Orrick Herrington & Sutcliffe LLP](https://www.orrick.com) descriptions.
+I've provided README files for each document. These README files are sourced from the [Orrick Herrington & Sutcliffe LLP](https://www.orrick.com) descriptions.
 
 In addition, I've converted them to markdown where possible for maximum reusability.
 
@@ -22,4 +22,4 @@ As a general matter, you should not make substantive changes to any of the forms
 
 I do not own these forms. Use of these forms is bound by the orrick.com [Terms of Use Agreement](https://www.orrick.com/Terms-of-Use-Agreement).
 
-The terms found in [ADDITIONAL_TERMS.md]('./ADDITIONAL_TERMS.md') supplement the orrick.com [Terms of Use Agreement](https://www.orrick.com/Terms-of-Use-Agreement).
+The terms found in [ADDITIONAL_TERMS.md]('./ADDITIONAL_TERMS.md') supplement terms linked above.
