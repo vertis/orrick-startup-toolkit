@@ -10,6 +10,10 @@ I've provided README files for each document. These README files are sourced fro
 
 In addition, I've converted them to markdown where possible for maximum reusability.
 
+Documents were converted using Pandoc. E.g.:
+
+`pandoc -s originals/consulting-agreement.docx -t markdown -o markdown/consulting-agreement.md`
+
 ## General Guidelines for Forms (from Orrick)
 
 As a general matter, you should not make substantive changes to any of the forms included in the Startup Forms Library without checking with your legal counsel. We are constantly improving and updating our forms to keep up with developments in the law and in what's "standard" in the market. As such, you should check here periodically to determine whether you have the latest forms available.
